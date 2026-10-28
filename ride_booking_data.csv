@@ -1,0 +1,501 @@
+Booking_ID,Booking_Date,Booking_Time,Customer_ID,Ride_Status,Vehicle_Type,Pickup_Location,Drop_Location,Ride_Distance_KM,Fare_Amount,Payment_Method,Customer_Rating
+1,02-01-2026,08:15:00,C001,Completed,Mini,Kothrud,Hinjewadi,12.5,185,UPI,4.5
+2,03-01-2026,09:30:00,C002,Completed,Sedan,Baner,Wakad,8.2,174.4,Cash,4.2
+3,04-01-2026,10:45:00,C003,Cancelled,Auto,Hadapsar,Kharadi,6.5,0,Cash,
+4,05-01-2026,11:20:00,C004,Completed,SUV,Viman Nagar,Pune Station,15.8,398.4,UPI,4.8
+5,06-01-2026,12:10:00,C005,Completed,Mini,Shivajinagar,Kothrud,5.4,102.8,Wallet,4.1
+6,07-01-2026,13:25:00,C006,No Driver,Auto,Katraj,Karve Nagar,7.2,0,UPI,
+7,08-01-2026,14:40:00,C007,Completed,Sedan,Aundh,Baner,9.6,208.2,Credit Card,4.6
+8,09-01-2026,15:15:00,C008,Completed,Mini,Hinjewadi,Wakad,4.5,91.5,UPI,4
+9,10-01-2026,16:30:00,C009,Completed,SUV,Kharadi,Hadapsar,11.2,310.6,Cash,4.7
+10,11-01-2026,17:45:00,C010,Completed,Mini,Kothrud,Pune Station,-4.5,120,UPI,4.3
+11,12-01-2026,18:20:00,C011,Completed,Auto,Baner,Aundh,3.8,72,Cash,4.4
+12,13-01-2026,19:35:00,C012,Completed,Sedan,Wakad,Shivajinagar,13.4,257.8,UPI,4.8
+13,14-01-2026,20:10:00,C013,Cancelled,Mini,Karve Nagar,Katraj,5.1,0,Wallet,
+14,15-01-2026,07:25:00,C014,Completed,SUV,Hinjewadi,Baner,18.6,480.2,Credit Card,4.9
+15,16-01-2026,08:40:00,C015,Completed,Mini,Hadapsar,Viman Nagar,7.7,137.4,UPI,4.1
+16,17-01-2026,09:55:00,C016,Completed,Sedan,Pune Station,Kharadi,10.5,225.5,Cash,4.5
+17,18-01-2026,10:30:00,C017,No Driver,Auto,Aundh,Kothrud,6.8,0,UPI,
+18,19-01-2026,11:45:00,C018,Completed,Mini,Wakad,Hinjewadi,9.2,156.8,Wallet,4.6
+19,20-01-2026,12:20:00,C019,Completed,SUV,Katraj,Shivajinagar,16.3,419.9,Credit Card,4.7
+20,21-01-2026,13:35:00,C020,Completed,Mini,Baner,Hadapsar,14.1,210.2,UPI,4.3
+21,22-01-2026,14:10:00,C021,Completed,Auto,Kothrud,Aundh,4.2,67,Cash,4
+22,23-01-2026,15:25:00,C022,Completed,Sedan,Kharadi,Wakad,12.8,250.6,UPI,4.8
+23,24-01-2026,16:40:00,C023,Cancelled,SUV,Hadapsar,Pune Station,17.5,0,Wallet,
+24,25-01-2026,17:15:00,C024,Completed,Mini,Viman Nagar,Baner,6.3,115.6,UPI,4.2
+25,26-01-2026,18:30:00,C025,Completed,Sedan,Shivajinagar,Katraj,14.8,7,Credit Card,7
+26,27-01-2026,19:45:00,C026,Completed,Auto,Wakad,Kothrud,8.5,100,Cash,4.4
+27,28-01-2026,20:20:00,C027,Completed,SUV,Baner,Kharadi,21.2,532.6,UPI,4.9
+28,29-01-2026,07:35:00,C028,Completed,Mini,Aundh,Hinjewadi,11.4,181.8,Wallet,4.1
+29,30-01-2026,08:50:00,C029,No Driver,Sedan,Katraj,Hadapsar,9.5,0,Cash,
+30,31-01-2026,09:25:00,C030,Completed,Mini,Kharadi,Viman Nagar,5.8,109.6,UPI,4.5
+31,01-02-2026,10:40:00,C031,Completed,SUV,Pune Station,Kothrud,19.6,505.8,Credit Card,4.8
+32,02-02-2026,11:15:00,C032,Completed,Auto,Hinjewadi,Wakad,3.4,58,Cash,4.2
+33,03-02-2026,12:30:00,C033,Completed,Sedan,Hadapsar,Baner,15.2,303.4,UPI,4.6
+34,04-02-2026,13:45:00,C034,Cancelled,Mini,Aundh,Katraj,8.7,0,Wallet,
+35,05-02-2026,14:20:00,C035,Completed,Mini,Kothrud,Shivajinagar,6.1,118.2,UPI,4.3
+36,06-02-2026,15:35:00,C036,Completed,SUV,Wakad,Pune Station,22.4,558.2,Credit Card,4.9
+37,07-02-2026,16:10:00,C037,Completed,Sedan,Baner,Viman Nagar,11.7,243.9,Cash,4.4
+38,08-02-2026,17:25:00,C038,Completed,Auto,Kharadi,Hadapsar,5.6,71,UPI,4
+39,09-02-2026,18:40:00,C039,Completed,Mini,Katraj,Aundh,16.5,242,Wallet,4.7
+40,10-02-2026,19:15:00,C040,Completed,Sedan,Shivajinagar,Kothrud,12.2,-120,Credit Card,4.5
+41,11-02-2026,20:30:00,C041,Completed,Mini,Hinjewadi,Baner,7.9,139.8,UPI,4.3
+42,12-02-2026,07:45:00,C042,Completed,SUV,Viman Nagar,Kharadi,13.6,379.8,Cash,4.8
+43,13-02-2026,08:20:00,C043,No Driver,Auto,Wakad,Karve Nagar,4.8,0,UPI,
+44,14-02-2026,09:35:00,C044,Completed,Sedan,Kothrud,Hadapsar,18.1,347.7,Wallet,4.6
+45,15-02-2026,10:10:00,C045,Completed,Mini,Baner,Aundh,5.3,108.6,Cash,4.2
+46,16-02-2026,11:25:00,C046,Completed,SUV,Katraj,Hinjewadi,25.6,633.8,UPI,4.9
+47,17-02-2026,12:40:00,C047,Completed,Auto,Shivajinagar,Pune Station,3.1,62,Credit Card,4.1
+48,18-02-2026,13:15:00,C048,Completed,Sedan,Kharadi,Wakad,10.8,235.6,UPI,4.7
+49,19-02-2026,14:30:00,C049,Cancelled,Mini,Hadapsar,Kothrud,12.4,0,Cash,
+50,20-02-2026,15:45:00,C050,Completed,Mini,Aundh,Viman Nagar,9.1,160.2,Wallet,4.5
+51,21-02-2026,16:20:00,C051,Completed,SUV,Baner,Katraj,17.8,466.4,UPI,4.8
+52,22-02-2026,17:35:00,C052,Completed,Auto,Kothrud,Wakad,6.4,89,Cash,4.2
+53,23-02-2026,18:10:00,C053,Completed,Sedan,Hinjewadi,Shivajinagar,14.6,291.2,Credit Card,4.6
+54,24-02-2026,19:25:00,C054,Completed,Mini,Pune Station,Baner,8.3,151.6,UPI,4.4
+55,25-02-2026,20:40:00,C055,Unknown,Kharadi,Kothrud,11.5,170,Wallet,,
+56,26-02-2026,07:15:00,C056,Completed,SUV,Wakad,Hadapsar,20.3,511.9,Cash,4.9
+57,27-02-2026,08:30:00,C057,Completed,Auto,Aundh,Karve Nagar,4.6,76,UPI,4.3
+58,28-02-2026,09:45:00,C058,Completed,Sedan,Viman Nagar,Katraj,16.7,312.9,Credit Card,4.7
+59,01-03-2026,10:20:00,C059,Completed,Mini,Kothrud,Hinjewadi,13.2,211.4,Wallet,4.6
+60,02-03-2026,11:35:00,C060,Cancelled,SUV,Baner,Pune Station,10.4,0,Cash,
+61,03-03-2026,12:10:00,C061,Completed,Mini,Kharadi,Aundh,6.7,125.4,UPI,4.1
+62,04-03-2026,13:25:00,C062,Completed,Sedan,Hadapsar,Wakad,9.8,214.6,Wallet,4.5
+63,05-03-2026,14:40:00,C063,Completed,Auto,Karve Nagar,Shivajinagar,5.2,80,Cash,4
+64,06-03-2026,15:15:00,C064,Completed,SUV,Hinjewadi,Katraj,23.1,577.3,Credit Card,4.9
+65,07-03-2026,16:30:00,C065,Completed,Mini,Baner,Kothrud,4.9,103.8,UPI,4.3
+66,08-03-2026,17:45:00,C066,No Driver,Sedan,Viman Nagar,Hinjewadi,12.5,0,Wallet,
+67,09-03-2026,18:20:00,C067,Completed,SUV,Pune Station,Kharadi,18.9,508.7,UPI,4.8
+68,10-03-2026,19:35:00,C068,Completed,Mini,Wakad,Aundh,7.6,126.2,Cash,4.2
+69,11-03-2026,20:10:00,C069,Completed,Sedan,Katraj,Hadapsar,15.3,301.1,Credit Card,4.6
+70,12-03-2026,07:25:00,C070,Completed,Auto,Kothrud,Pune Station,3.9,68,UPI,4.1
+71,13-03-2026,08:40:00,C071,Completed,Mini,Hadapsar,Baner,10.6,173.2,Wallet,4.4
+72,14-03-2026,09:55:00,C072,Completed,SUV,Aundh,Shivajinagar,14.2,393.6,Cash,4.7
+73,15-03-2026,10:30:00,C073,Cancelled,Auto,Wakad,Kharadi,8.4,0,UPI,
+74,16-03-2026,11:45:00,C074,Completed,Sedan,Hinjewadi,Viman Nagar,19.7,379.9,Credit Card,4.9
+75,17-03-2026,12:20:00,C075,Completed,Mini,Katraj,Kothrud,11.3,183.6,UPI,4.5
+76,18-03-2026,13:35:00,C076,Completed,Auto,Baner,Aundh,4.1,71,Cash,4.2
+77,19-03-2026,14:10:00,C077,Completed,SUV,Kharadi,Pune Station,16.8,442.4,Wallet,4.8
+78,20-03-2026,15:25:00,C078,Completed,Sedan,Shivajinagar,Hadapsar,12.6,252.2,UPI,4.6
+79,21-03-2026,16:40:00,C079,Completed,Mini,Viman Nagar,Wakad,5.7,110.4,Credit Card,4.3
+80,22-03-2026,17:15:00,C080,Completed,SUV,Kothrud,Kharadi,21.4,534.2,Cash,4.9
+81,23-03-2026,18:30:00,C081,Completed,Mini,Aundh,Pune Station,8.8,153.4,UPI,4.5
+82,24-03-2026,19:45:00,C082,No Driver,Auto,Hadapsar,Katraj,6.2,0,Wallet,
+83,25-03-2026,20:20:00,C083,Completed,Sedan,Baner,Hinjewadi,17.1,324.7,Credit Card,4.7
+84,26-03-2026,07:35:00,C084,Completed,Auto,Kharadi,Kothrud,5.5,79,UPI,4
+85,27-03-2026,08:50:00,C085,Completed,Mini,Shivajinagar,Wakad,9.7,168.4,Cash,4.6
+86,28-03-2026,09:25:00,C086,Completed,SUV,Katraj,Viman Nagar,24.3,614.9,Wallet,4.9
+87,29-03-2026,10:40:00,C087,Completed,Sedan,Wakad,Aundh,7.4,174.2,UPI,4.2
+88,30-03-2026,11:15:00,C088,Cancelled,Mini,Hinjewadi,Kharadi,13.5,0,Cash,
+89,31-03-2026,12:30:00,C089,Completed,Auto,Pune Station,Baner,4.7,82,Credit Card,4.3
+90,01-04-2026,13:45:00,C090,Completed,Sedan,Kothrud,Hadapsar,11.9,237.3,UPI,4.6
+91,02-04-2026,14:20:00,C091,Completed,Mini,Viman Nagar,Shivajinagar,6.6,119.2,Wallet,4.4
+92,03-04-2026,15:35:00,C092,Completed,SUV,Baner,Katraj,18.5,482.5,Cash,4.8
+93,04-04-2026,16:10:00,C093,Completed,Auto,Aundh,Wakad,3.6,65,UPI,4.1
+94,05-04-2026,17:25:00,C094,Completed,Sedan,Kharadi,Hinjewadi,16.2,319.4,Credit Card,4.7
+95,06-04-2026,18:40:00,C095,No Driver,Mini,Hadapsar,Pune Station,7.8,0,Cash,
+96,07-04-2026,19:15:00,C096,Completed,SUV,Shivajinagar,Kothrud,13.9,377.7,UPI,4.8
+97,08-04-2026,20:30:00,C097,Completed,Mini,Wakad,Baner,10.2,167.4,Wallet,4.5
+98,09-04-2026,07:45:00,C098,Completed,Auto,Katraj,Aundh,6.9,93,Cash,4.2
+99,10-04-2026,08:20:00,C099,Completed,Sedan,Pune Station,Viman Nagar,14.4,277.8,UPI,4.6
+100,11-04-2026,09:35:00,C100,Completed,Mini,Hinjewadi,Kharadi,12.1,194.2,Credit Card,4.4
+101,12-04-2026,10:15:00,C101,Completed,Mini,Kothrud,Baner,8.5,147,UPI,4.4
+102,13-04-2026,11:30:00,C102,Completed,Sedan,Hinjewadi,Wakad,12.4,245.8,Cash,4.6
+103,14-04-2026,12:45:00,C103,Cancelled,Auto,Kharadi,Hadapsar,5.8,0,Wallet,
+104,15-04-2026,13:20:00,C104,Completed,SUV,Viman Nagar,Katraj,17.6,465,UPI,4.8
+105,16-04-2026,14:35:00,C105,Completed,Mini,Baner,Aundh,6.2,119.4,Cash,4.1
+106,17-04-2026,15:10:00,C106,No Driver,Auto,Hadapsar,Kothrud,7.5,0,UPI,
+107,18-04-2026,16:25:00,C107,Completed,Sedan,Pune Station,Kharadi,10.8,231.6,Credit Card,4.5
+108,19-04-2026,17:40:00,C108,Completed,Mini,Wakad,Hinjewadi,4.6,92.2,Wallet,4.2
+109,20-04-2026,18:15:00,C109,Completed,SUV,Katraj,Shivajinagar,15.9,402.7,Cash,4.7
+110,21-04-2026,19:30:00,C110,Completed,Mini,Aundh,Viman Nagar,9.4,159.8,UPI,4.3
+111,22-04-2026,20:45:00,C111,Completed,Auto,Kothrud,Pune Station,3.8,67,Cash,4.1
+112,23-04-2026,07:20:00,C112,Completed,Sedan,Baner,Hadapsar,13.6,276.2,UPI,4.7
+113,24-04-2026,08:35:00,C113,Cancelled,Mini,Kharadi,Wakad,8.1,0,Wallet,
+114,25-04-2026,09:10:00,C114,Completed,SUV,Hinjewadi,Baner,19.4,499.2,Credit Card,4.9
+115,26-04-2026,10:25:00,C115,Completed,Mini,Shivajinagar,Kothrud,5.7,113.4,UPI,4.2
+116,27-04-2026,11:40:00,C116,Completed,Sedan,Katraj,Viman Nagar,14.8,302.6,Cash,4.6
+117,28-04-2026,12:15:00,C117,No Driver,Auto,Wakad,Karve Nagar,6.4,0,UPI,
+118,29-04-2026,13:30:00,C118,Completed,Mini,Hadapsar,Baner,10.1,166.2,Wallet,4.4
+119,30-04-2026,14:45:00,C119,Completed,SUV,Kharadi,Aundh,21.3,533.9,Credit Card,4.8
+120,01-05-2026,15:20:00,C120,Completed,Mini,Viman Nagar,Pune Station,7.6,135.2,UPI,4.3
+121,02-05-2026,16:35:00,C121,Completed,Auto,Baner,Kothrud,4.4,73,Cash,4.2
+122,03-05-2026,17:50:00,C122,Completed,Sedan,Wakad,Shivajinagar,12.7,249.9,UPI,4.7
+123,04-05-2026,18:25:00,C123,Cancelled,SUV,Hadapsar,Kharadi,16.4,0,Wallet,
+124,05-05-2026,19:40:00,C124,Completed,Mini,Katraj,Aundh,6.8,127.6,Cash,4.1
+125,06-05-2026,20:15:00,C125,Completed,Sedan,Pune Station,Hinjewadi,15.5,314.5,UPI,4.8
+126,07-05-2026,07:30:00,C126,Completed,Auto,Kothrud,Wakad,5.1,80,Wallet,4
+127,08-05-2026,08:45:00,C127,Completed,SUV,Baner,Viman Nagar,18.2,475.6,Credit Card,4.9
+128,09-05-2026,09:20:00,C128,Completed,Mini,Aundh,Kharadi,11.6,184.2,UPI,4.5
+129,10-05-2026,10:35:00,C129,No Driver,Sedan,Hadapsar,Shivajinagar,9.3,0,Cash,
+130,11-05-2026,11:50:00,C130,Completed,Mini,Hinjewadi,Kothrud,5.9,112.8,Wallet,4.2
+131,12-05-2026,12:25:00,C131,Completed,SUV,Kharadi,Pune Station,20.6,516.8,UPI,4.8
+132,13-05-2026,13:40:00,C132,Completed,Auto,Shivajinagar,Baner,3.5,64,Cash,4.1
+133,14-05-2026,14:15:00,C133,Completed,Sedan,Viman Nagar,Wakad,13.2,266.4,Credit Card,4.7
+134,15-05-2026,15:30:00,C134,Cancelled,Mini,Kothrud,Katraj,7.3,0,UPI,
+135,16-05-2026,16:45:00,C135,Completed,Mini,Baner,Hinjewadi,9.8,163.2,Wallet,4.4
+136,17-05-2026,17:20:00,C136,Completed,SUV,Aundh,Hadapsar,22.1,550.3,Cash,4.9
+137,18-05-2026,18:35:00,C137,Completed,Sedan,Wakad,Kharadi,11.4,240.8,UPI,4.6
+138,19-05-2026,19:10:00,C138,Completed,Auto,Katraj,Karve Nagar,4.9,79,Wallet,4.2
+139,20-05-2026,20:25:00,C139,Completed,Mini,Pune Station,Viman Nagar,8.6,150.2,Cash,4.5
+140,21-05-2026,07:40:00,C140,Completed,Sedan,Hinjewadi,Kothrud,16.8,335.6,UPI,4.8
+141,22-05-2026,08:15:00,C141,Completed,Mini,Hadapsar,Aundh,12.2,196.4,Wallet,4.3
+142,23-05-2026,09:30:00,C142,Completed,SUV,Baner,Katraj,17.3,459.1,Credit Card,4.7
+143,24-05-2026,10:45:00,C143,No Driver,Auto,Kharadi,Shivajinagar,6.6,0,Cash,
+144,25-05-2026,11:20:00,C144,Completed,Sedan,Kothrud,Pune Station,9.7,212.9,UPI,4.5
+145,26-05-2026,12:35:00,C145,Completed,Mini,Wakad,Baner,4.8,99.6,Wallet,4.2
+146,27-05-2026,13:10:00,C146,Completed,SUV,Viman Nagar,Hinjewadi,24.5,619.5,Cash,4.9
+147,28-05-2026,14:25:00,C147,Completed,Auto,Aundh,Kothrud,5.4,84,UPI,4
+148,29-05-2026,15:40:00,C148,Completed,Sedan,Katraj,Hadapsar,14.1,280.7,Credit Card,4.6
+149,30-05-2026,16:15:00,C149,Cancelled,Mini,Shivajinagar,Wakad,6.5,0,Cash,
+150,31-05-2026,17:30:00,C150,Completed,Mini,Baner,Viman Nagar,10.7,176.4,UPI,4.4
+151,01-06-2026,18:45:00,C151,Completed,SUV,Kothrud,Kharadi,19.8,510.4,Wallet,4.8
+152,02-06-2026,19:20:00,C152,Completed,Auto,Hinjewadi,Wakad,3.7,66,Cash,4.2
+153,03-06-2026,20:35:00,C153,Completed,Sedan,Pune Station,Baner,12.5,247.5,UPI,4.7
+154,04-06-2026,07:10:00,C154,Completed,Mini,Aundh,Hadapsar,8.9,157.8,Credit Card,4.5
+155,05-06-2026,08:25:00,C155,Completed,SUV,Katraj,Viman Nagar,16.7,439.1,UPI,4.8
+156,06-06-2026,09:40:00,C156,No Driver,Auto,Kharadi,Kothrud,4.6,0,Wallet,
+157,07-06-2026,10:15:00,C157,Completed,Mini,Wakad,Shivajinagar,11.3,181.6,Cash,4.4
+158,08-06-2026,11:30:00,C158,Completed,Sedan,Baner,Hinjewadi,15.9,322.3,UPI,4.7
+159,09-06-2026,12:45:00,C159,Completed,Mini,Kothrud,Aundh,5.2,106.4,Wallet,4.1
+160,10-06-2026,13:20:00,C160,Cancelled,SUV,Hadapsar,Katraj,18.4,0,Cash,
+161,11-06-2026,14:35:00,C161,Completed,Auto,Viman Nagar,Pune Station,6.3,87,UPI,4.3
+162,12-06-2026,15:10:00,C162,Completed,Sedan,Shivajinagar,Kharadi,13.7,278.9,Credit Card,4.6
+163,13-06-2026,16:25:00,C163,Completed,Mini,Hinjewadi,Wakad,7.4,133.8,Wallet,4.2
+164,14-06-2026,17:40:00,C164,Completed,SUV,Baner,Kothrud,21.6,540.8,UPI,4.9
+165,15-06-2026,18:15:00,C165,Completed,Auto,Katraj,Karve Nagar,4.1,71,Cash,4
+166,16-06-2026,19:30:00,C166,Completed,Sedan,Aundh,Viman Nagar,10.9,237.3,UPI,4.6
+167,17-06-2026,20:45:00,C167,No Driver,Mini,Kharadi,Hadapsar,8.2,0,Wallet,
+168,18-06-2026,07:20:00,C168,Completed,Mini,Pune Station,Kothrud,6.7,124.4,Cash,4.4
+169,19-06-2026,08:35:00,C169,Completed,SUV,Wakad,Baner,14.5,400.5,Credit Card,4.8
+170,20-06-2026,09:10:00,C170,Completed,Sedan,Hadapsar,Hinjewadi,17.2,345.4,UPI,4.7
+171,21-06-2026,10:25:00,C171,Completed,Auto,Kothrud,Shivajinagar,5.7,86,Wallet,4.1
+172,22-06-2026,11:40:00,C172,Completed,Mini,Baner,Aundh,9.3,158.6,Cash,4.4
+173,23-06-2026,12:15:00,C173,Completed,SUV,Kharadi,Viman Nagar,12.8,339.4,UPI,4.8
+174,24-06-2026,13:30:00,C174,Cancelled,Sedan,Katraj,Pune Station,11.5,0,Credit Card,
+175,25-06-2026,14:45:00,C175,Completed,Mini,Hinjewadi,Kothrud,14.2,222.4,Wallet,4.6
+176,26-06-2026,15:20:00,C176,Completed,Auto,Wakad,Hadapsar,3.9,69,Cash,4.2
+177,27-06-2026,16:35:00,C177,Completed,Sedan,Viman Nagar,Baner,16.3,322.1,UPI,4.7
+178,28-06-2026,17:50:00,C178,Completed,Mini,Shivajinagar,Katraj,7.8,140.6,Credit Card,4.3
+179,29-06-2026,18:25:00,C179,Completed,SUV,Aundh,Kharadi,23.7,601.1,UPI,4.9
+180,30-06-2026,19:40:00,C180,Completed,Mini,Hadapsar,Wakad,10.4,170.8,Wallet,4.5
+181,05-01-2026,20:15:00,C021,Completed,Sedan,Kothrud,Hinjewadi,14.3,291.1,UPI,4.7
+182,08-01-2026,07:30:00,C042,Completed,Mini,Baner,Shivajinagar,6.4,121.8,Cash,4.3
+183,11-01-2026,08:45:00,C063,Completed,SUV,Kharadi,Katraj,19.2,496.6,Credit Card,4.8
+184,14-01-2026,09:20:00,C084,Completed,Auto,Wakad,Aundh,4.7,78,UPI,4.2
+185,17-01-2026,10:35:00,C105,Completed,Mini,Viman Nagar,Kothrud,8.1,145.2,Wallet,4.5
+186,20-01-2026,11:50:00,C126,Cancelled,Sedan,Hadapsar,Baner,13.2,0,Cash,
+187,23-01-2026,12:25:00,C147,Completed,SUV,Pune Station,Hinjewadi,22.7,585.1,UPI,4.9
+188,26-01-2026,13:40:00,C168,Completed,Mini,Katraj,Wakad,5.6,110.2,Credit Card,4.1
+189,29-01-2026,14:15:00,C009,Completed,Auto,Aundh,Shivajinagar,6.2,86,Cash,4.3
+190,01-02-2026,15:30:00,C030,Completed,Sedan,Baner,Kharadi,11.6,243.2,UPI,4.6
+191,04-02-2026,16:45:00,C051,No Driver,Mini,Hinjewadi,Hadapsar,9.5,0,Wallet,
+192,07-02-2026,17:20:00,C072,Completed,SUV,Kothrud,Viman Nagar,18.1,473.3,Credit Card,4.8
+193,10-02-2026,18:35:00,C093,Completed,Mini,Wakad,Aundh,7.2,129.4,UPI,4.4
+194,13-02-2026,19:10:00,C114,Completed,Sedan,Kharadi,Pune Station,15.4,311.8,Cash,4.7
+195,16-02-2026,20:25:00,C135,Completed,Auto,Shivajinagar,Kothrud,3.8,67,UPI,4
+196,19-02-2026,07:40:00,C156,Completed,Mini,Baner,Hinjewadi,12.6,201.2,Wallet,4.5
+197,22-02-2026,08:15:00,C177,Completed,SUV,Hadapsar,Katraj,16.9,444.7,Credit Card,4.8
+198,25-02-2026,09:30:00,C018,Completed,Sedan,Aundh,Wakad,10.7,229.9,UPI,4.6
+199,28-02-2026,10:45:00,C039,Cancelled,Mini,Kothrud,Viman Nagar,8.6,0,Cash,
+200,03-03-2026,11:20:00,C060,Completed,Auto,Katraj,Baner,5.1,80,UPI,4.1
+201,06-03-2026,12:35:00,C081,Completed,Mini,Wakad,Kharadi,9.8,164.6,UPI,4.4
+202,09-03-2026,13:10:00,C102,Completed,Sedan,Pune Station,Kothrud,12.1,240.7,Cash,4.6
+203,12-03-2026,14:25:00,C123,Completed,SUV,Baner,Hadapsar,20.2,509.6,Credit Card,4.8
+204,15-03-2026,15:40:00,C144,Completed,Auto,Aundh,Katraj,4.4,73,UPI,4.2
+205,18-03-2026,16:15:00,C165,Completed,Mini,Hinjewadi,Shivajinagar,13.1,210.2,Wallet,4.5
+206,21-03-2026,17:30:00,C006,No Driver,Sedan,Kharadi,Wakad,11.5,0,Cash,
+207,24-03-2026,18:45:00,C027,Completed,SUV,Kothrud,Pune Station,18.6,483.8,UPI,4.9
+208,27-03-2026,19:20:00,C048,Completed,Mini,Viman Nagar,Baner,6.9,126.8,Credit Card,4.3
+209,30-03-2026,20:35:00,C069,Completed,Auto,Hadapsar,Aundh,5.8,85,Wallet,4.1
+210,02-04-2026,07:10:00,C090,Completed,Sedan,Wakad,Katraj,16.4,328.8,UPI,4.7
+211,05-04-2026,08:25:00,C111,Completed,Mini,Baner,Kothrud,7.3,133.6,Cash,4.4
+212,08-04-2026,09:40:00,C132,Completed,SUV,Kharadi,Hinjewadi,22.8,587.4,Credit Card,4.9
+213,11-04-2026,10:15:00,C153,Cancelled,Auto,Katraj,Shivajinagar,6.1,0,UPI,
+214,14-04-2026,11:30:00,C174,Completed,Mini,Aundh,Wakad,10.5,173,Wallet,4.5
+215,17-04-2026,12:45:00,C015,Completed,Sedan,Hadapsar,Viman Nagar,13.7,273.9,Cash,4.6
+216,20-04-2026,13:20:00,C036,Completed,Mini,Kothrud,Pune Station,5.4,108.8,UPI,4.2
+217,23-04-2026,14:35:00,C057,Completed,SUV,Baner,Kharadi,17.1,455.3,Credit Card,4.8
+218,26-04-2026,15:10:00,C078,Completed,Auto,Shivajinagar,Kothrud,4.3,72,Wallet,4.1
+219,29-04-2026,16:25:00,C099,Completed,Mini,Hinjewadi,Aundh,8.8,153.4,Cash,4.4
+220,02-05-2026,17:40:00,C120,Completed,Sedan,Viman Nagar,Hadapsar,15.6,314.2,UPI,4.7
+221,05-05-2026,18:15:00,C141,Completed,SUV,Katraj,Wakad,19.4,499.2,Credit Card,4.8
+222,08-05-2026,19:30:00,C162,Completed,Mini,Pune Station,Baner,6.6,122.2,UPI,4.3
+223,11-05-2026,20:45:00,C003,No Driver,Auto,Kothrud,Kharadi,5.3,0,Cash,
+224,14-05-2026,07:20:00,C024,Completed,Sedan,Wakad,Hinjewadi,12.9,254.3,Wallet,4.6
+225,17-05-2026,08:35:00,C045,Completed,Mini,Aundh,Shivajinagar,7.7,138.4,UPI,4.2
+226,20-05-2026,09:10:00,C066,Completed,SUV,Hadapsar,Katraj,21.5,537.5,Credit Card,4.9
+227,23-05-2026,10:25:00,C087,Completed,Auto,Baner,Kothrud,3.6,65,Cash,4
+228,26-05-2026,11:40:00,C108,Completed,Mini,Kharadi,Viman Nagar,11.1,178.2,UPI,4.4
+229,29-05-2026,12:15:00,C129,Completed,Sedan,Hinjewadi,Pune Station,14.8,302.6,Wallet,4.7
+230,01-06-2026,13:30:00,C150,Cancelled,Mini,Kothrud,Wakad,8.4,0,Cash,
+231,04-06-2026,14:45:00,C171,Completed,SUV,Viman Nagar,Kharadi,16.3,428.9,UPI,4.8
+232,07-06-2026,15:20:00,C012,Completed,Auto,Katraj,Aundh,4.9,79,Credit Card,4.2
+233,10-06-2026,16:35:00,C033,Completed,Mini,Baner,Hadapsar,9.6,162.2,UPI,4.5
+234,13-06-2026,17:50:00,C054,Completed,Sedan,Shivajinagar,Kothrud,13.4,270.8,Cash,4.7
+235,16-06-2026,18:25:00,C075,Completed,SUV,Wakad,Pune Station,20.8,521.4,Wallet,4.9
+236,19-06-2026,19:40:00,C096,Completed,Mini,Aundh,Hinjewadi,5.7,112.2,UPI,4.3
+237,22-06-2026,20:15:00,C117,Completed,Auto,Kharadi,Baner,6.7,91,Cash,4.1
+238,25-06-2026,07:30:00,C138,Completed,Sedan,Kothrud,Viman Nagar,10.8,235.6,UPI,4.6
+239,28-06-2026,08:45:00,C159,Completed,Mini,Hadapsar,Katraj,12.3,197.6,Wallet,4.5
+240,04-01-2026,09:20:00,C180,Completed,SUV,Hinjewadi,Kharadi,23.5,596.5,Credit Card,4.9
+241,07-01-2026,10:35:00,C020,Completed,Mini,Wakad,Aundh,7.1,128.2,UPI,4.4
+242,10-01-2026,11:50:00,C041,Completed,Sedan,Baner,Kothrud,15.3,309.1,Cash,4.7
+243,13-01-2026,12:25:00,C062,Cancelled,Auto,Shivajinagar,Pune Station,4.8,0,Wallet,
+244,16-01-2026,13:40:00,C083,Completed,SUV,Katraj,Hadapsar,18.9,490.7,UPI,4.8
+245,19-01-2026,14:15:00,C104,Completed,Mini,Kharadi,Viman Nagar,5.9,112.8,Credit Card,4.2
+246,22-01-2026,15:30:00,C125,Completed,Sedan,Aundh,Hinjewadi,12.6,249.2,UPI,4.6
+247,25-01-2026,16:45:00,C146,Completed,Auto,Kothrud,Baner,3.7,66,Cash,4.1
+248,28-01-2026,17:20:00,C167,Completed,Mini,Pune Station,Wakad,10.9,175.8,Wallet,4.5
+249,31-01-2026,18:35:00,C008,Completed,SUV,Hadapsar,Kharadi,21.2,532.6,Credit Card,4.9
+250,03-02-2026,19:10,C008,Completed,SUV,Hadapsar,Kharadi,21.2,532.6,Credit Card,4.9
+251,06-02-2026,08:15:00,C029,Completed,Mini,Kothrud,Baner,7.8,140.6,UPI,4.3
+252,09-02-2026,09:30:00,C050,Completed,Sedan,Hinjewadi,Wakad,12.4,245.8,Cash,4.6
+253,12-02-2026,10:45:00,C071,Cancelled,Auto,Kharadi,Hadapsar,5.8,0,Wallet,
+254,15-02-2026,11:20:00,C092,Completed,SUV,Viman Nagar,Katraj,17.6,465,UPI,4.8
+255,18-02-2026,12:35:00,C113,Completed,Mini,Baner,Aundh,6.2,119.4,Cash,4.1
+256,21-02-2026,13:10:00,C134,No Driver,Auto,Hadapsar,Kothrud,7.5,0,UPI,
+257,24-02-2026,14:25:00,C155,Completed,Sedan,Pune Station,Kharadi,10.8,231.6,Credit Card,4.5
+258,27-02-2026,15:40:00,C176,Completed,Mini,Wakad,Hinjewadi,4.6,92.2,Wallet,4.2
+259,02-03-2026,16:15:00,C017,Completed,SUV,Katraj,Shivajinagar,15.9,402.7,Cash,4.7
+260,05-03-2026,17:30:00,C038,Completed,Mini,Aundh,Viman Nagar,9.4,159.8,UPI,4.3
+261,08-03-2026,18:45:00,C059,Completed,Auto,Kothrud,Pune Station,3.8,67,Cash,4.1
+262,11-03-2026,19:20:00,C080,Completed,Sedan,Baner,Hadapsar,13.6,276.2,UPI,4.7
+263,14-03-2026,20:35:00,C101,Cancelled,Mini,Kharadi,Wakad,8.1,0,Wallet,
+264,17-03-2026,07:10:00,C122,Completed,SUV,Hinjewadi,Baner,19.4,499.2,Credit Card,4.9
+265,20-03-2026,08:25:00,C143,Completed,Mini,Shivajinagar,Kothrud,5.7,113.4,UPI,4.2
+266,23-03-2026,09:40:00,C164,Completed,Sedan,Katraj,Viman Nagar,14.8,302.6,Cash,4.6
+267,26-03-2026,10:15:00,C005,No Driver,Auto,Wakad,Karve Nagar,6.4,0,UPI,
+268,29-03-2026,11:30:00,C026,Completed,Mini,Hadapsar,Baner,10.1,166.2,Wallet,4.4
+269,01-04-2026,12:45:00,C047,Completed,SUV,Kharadi,Aundh,21.3,533.9,Credit Card,4.8
+270,04-04-2026,13:20:00,C068,Completed,Mini,Viman Nagar,Pune Station,7.6,135.2,UPI,4.3
+271,07-04-2026,14:35:00,C089,Completed,Auto,Baner,Kothrud,4.4,73,Cash,4.2
+272,10-04-2026,15:10:00,C110,Completed,Sedan,Wakad,Shivajinagar,12.7,249.9,UPI,4.7
+273,13-04-2026,16:25:00,C131,Cancelled,SUV,Hadapsar,Kharadi,16.4,0,Wallet,
+274,16-04-2026,17:40:00,C152,Completed,Mini,Katraj,Aundh,6.8,127.6,Cash,4.1
+275,19-04-2026,18:15:00,C173,Completed,Sedan,Pune Station,Hinjewadi,15.5,314.5,UPI,4.8
+276,22-04-2026,19:30:00,C014,Completed,Auto,Kothrud,Wakad,5.1,80,Wallet,4
+277,25-04-2026,20:45:00,C035,Completed,SUV,Baner,Viman Nagar,18.2,475.6,Credit Card,4.9
+278,28-04-2026,07:20:00,C056,Completed,Mini,Aundh,Kharadi,11.6,184.2,UPI,4.5
+279,01-05-2026,08:35:00,C077,No Driver,Sedan,Hadapsar,Shivajinagar,9.3,0,Cash,
+280,04-05-2026,09:10:00,C098,Completed,Mini,Hinjewadi,Kothrud,5.9,112.8,Wallet,4.2
+281,07-05-2026,10:25:00,C119,Completed,SUV,Kharadi,Pune Station,20.6,516.8,UPI,4.8
+282,10-05-2026,11:40:00,C140,Completed,Auto,Shivajinagar,Baner,3.5,64,Cash,4.1
+283,13-05-2026,12:15:00,C161,Completed,Sedan,Viman Nagar,Wakad,13.2,266.4,Credit Card,4.7
+284,16-05-2026,13:30:00,C002,Cancelled,Mini,Kothrud,Katraj,7.3,0,UPI,
+285,19-05-2026,14:45:00,C023,Completed,Mini,Baner,Hinjewadi,9.8,163.2,Wallet,4.4
+286,22-05-2026,15:20:00,C044,Completed,SUV,Aundh,Hadapsar,22.1,550.3,Cash,4.9
+287,25-05-2026,16:35:00,C065,Completed,Sedan,Wakad,Kharadi,11.4,240.8,UPI,4.6
+288,28-05-2026,17:50:00,C086,Completed,Auto,Katraj,Karve Nagar,4.9,79,Wallet,4.2
+289,31-05-2026,18:25:00,C107,Completed,Mini,Pune Station,Viman Nagar,8.6,150.2,Cash,4.5
+290,03-06-2026,19:40:00,C128,Completed,Sedan,Hinjewadi,Kothrud,16.8,335.6,UPI,4.8
+291,06-06-2026,20:15:00,C149,Completed,Mini,Hadapsar,Aundh,12.2,196.4,Wallet,4.3
+292,09-06-2026,07:30:00,C170,Completed,SUV,Baner,Katraj,17.3,459.1,Credit Card,4.7
+293,12-06-2026,08:45:00,C011,No Driver,Auto,Kharadi,Shivajinagar,6.6,0,Cash,
+294,15-06-2026,09:20:00,C032,Completed,Sedan,Kothrud,Pune Station,9.7,212.9,UPI,4.5
+295,18-06-2026,10:35:00,C053,Completed,Mini,Wakad,Baner,4.8,99.6,Wallet,4.2
+296,21-06-2026,11:50:00,C074,Completed,SUV,Viman Nagar,Hinjewadi,24.5,619.5,Cash,4.9
+297,24-06-2026,12:25:00,C095,Completed,Auto,Aundh,Kothrud,5.4,84,UPI,4
+298,27-06-2026,13:40:00,C116,Completed,Sedan,Katraj,Hadapsar,14.1,280.7,Credit Card,4.6
+299,30-06-2026,14:15:00,C137,Cancelled,Mini,Shivajinagar,Wakad,6.5,0,Cash,
+300,03-01-2026,15:30:00,C158,Completed,Mini,Baner,Viman Nagar,10.7,176.4,UPI,4.4
+301,06-01-2026,16:45:00,C179,Completed,SUV,Kothrud,Kharadi,19.8,510.4,Wallet,4.8
+302,09-01-2026,17:20:00,C019,Completed,Auto,Hinjewadi,Wakad,3.7,66,Cash,4.2
+303,12-01-2026,18:35:00,C040,Completed,Sedan,Pune Station,Baner,12.5,247.5,UPI,4.7
+304,15-01-2026,19:10:00,C061,Completed,Mini,Aundh,Hadapsar,8.9,157.8,Credit Card,4.5
+305,18-01-2026,20:25:00,C082,Completed,SUV,Katraj,Viman Nagar,16.7,439.1,UPI,4.8
+306,21-01-2026,07:40:00,C103,No Driver,Auto,Kharadi,Kothrud,4.6,0,Wallet,
+307,24-01-2026,08:15:00,C124,Completed,Mini,Wakad,Shivajinagar,11.3,181.6,Cash,4.4
+308,27-01-2026,09:30:00,C145,Completed,Sedan,Baner,Hinjewadi,15.9,322.3,UPI,4.7
+309,30-01-2026,10:45:00,C166,Completed,Mini,Kothrud,Aundh,5.2,106.4,Wallet,4.1
+310,02-02-2026,11:20:00,C007,Cancelled,SUV,Hadapsar,Katraj,18.4,0,Cash,
+311,05-02-2026,12:35:00,C028,Completed,Auto,Viman Nagar,Pune Station,6.3,87,UPI,4.3
+312,08-02-2026,13:10:00,C049,Completed,Sedan,Shivajinagar,Kharadi,13.7,278.9,Credit Card,4.6
+313,11-02-2026,14:25:00,C070,Completed,Mini,Hinjewadi,Wakad,7.4,133.8,Wallet,4.2
+314,14-02-2026,15:40:00,C091,Completed,SUV,Baner,Kothrud,21.6,540.8,UPI,4.9
+315,17-02-2026,16:15:00,C112,Completed,Auto,Katraj,Karve Nagar,4.1,71,Cash,4
+316,20-02-2026,17:30:00,C133,Completed,Sedan,Aundh,Viman Nagar,10.9,237.3,UPI,4.6
+317,23-02-2026,18:45:00,C154,No Driver,Mini,Kharadi,Hadapsar,8.2,0,Wallet,
+318,26-02-2026,19:20:00,C175,Completed,Mini,Pune Station,Kothrud,6.7,124.4,Cash,4.4
+319,01-03-2026,20:35:00,C016,Completed,SUV,Wakad,Baner,14.5,400.5,Credit Card,4.8
+320,04-03-2026,07:10:00,C037,Completed,Sedan,Hadapsar,Hinjewadi,17.2,345.4,UPI,4.7
+321,07-03-2026,08:25:00,C058,Completed,Auto,Kothrud,Shivajinagar,5.7,86,Wallet,4.1
+322,10-03-2026,09:40:00,C079,Completed,Mini,Baner,Aundh,9.3,158.6,Cash,4.4
+323,13-03-2026,10:15:00,C100,Completed,SUV,Kharadi,Viman Nagar,12.8,339.4,UPI,4.8
+324,16-03-2026,11:30:00,C121,Cancelled,Sedan,Katraj,Pune Station,11.5,0,Credit Card,
+325,19-03-2026,12:45:00,C142,Completed,Mini,Hinjewadi,Kothrud,14.2,222.4,Wallet,4.6
+326,22-03-2026,13:20:00,C163,Completed,Auto,Wakad,Hadapsar,3.9,69,Cash,4.2
+327,25-03-2026,14:35:00,C004,Completed,Sedan,Viman Nagar,Baner,16.3,322.1,UPI,4.7
+328,28-03-2026,15:10:00,C025,Completed,Mini,Shivajinagar,Katraj,7.8,140.6,Credit Card,4.3
+329,31-03-2026,16:25:00,C046,Completed,SUV,Aundh,Kharadi,23.7,601.1,UPI,4.9
+330,03-04-2026,17:40:00,C067,Completed,Mini,Hadapsar,Wakad,10.4,170.8,Wallet,4.5
+331,06-04-2026,18:15:00,C088,Completed,Mini,Kothrud,Baner,8.5,147,UPI,4.4
+332,09-04-2026,19:30:00,C109,Completed,Sedan,Hinjewadi,Wakad,12.4,245.8,Cash,4.6
+333,12-04-2026,20:45:00,C130,Cancelled,Auto,Kharadi,Hadapsar,5.8,0,Wallet,
+334,15-04-2026,07:20:00,C151,Completed,SUV,Viman Nagar,Katraj,17.6,465,UPI,4.8
+335,18-04-2026,08:35:00,C172,Completed,Mini,Baner,Aundh,6.2,119.4,Cash,4.1
+336,21-04-2026,09:10:00,C013,No Driver,Auto,Hadapsar,Kothrud,7.5,0,UPI,
+337,24-04-2026,10:25:00,C034,Completed,Sedan,Pune Station,Kharadi,10.8,231.6,Credit Card,4.5
+338,27-04-2026,11:40:00,C055,Completed,Mini,Wakad,Hinjewadi,4.6,92.2,Wallet,4.2
+339,30-04-2026,12:15:00,C076,Completed,SUV,Katraj,Shivajinagar,15.9,402.7,Cash,4.7
+340,03-05-2026,13:30:00,C097,Completed,Mini,Aundh,Viman Nagar,9.4,159.8,UPI,4.3
+341,06-05-2026,14:45:00,C118,Completed,Auto,Kothrud,Pune Station,3.8,67,Cash,4.1
+342,09-05-2026,15:20:00,C139,Completed,Sedan,Baner,Hadapsar,13.6,276.2,UPI,4.7
+343,12-05-2026,16:35:00,C160,Cancelled,Mini,Kharadi,Wakad,8.1,0,Wallet,
+344,15-05-2026,17:50:00,C001,Completed,SUV,Hinjewadi,Baner,19.4,499.2,Credit Card,4.9
+345,18-05-2026,18:25:00,C022,Completed,Mini,Shivajinagar,Kothrud,5.7,113.4,UPI,4.2
+346,21-05-2026,19:40:00,C043,Completed,Sedan,Katraj,Viman Nagar,14.8,302.6,Cash,4.6
+347,24-05-2026,20:15:00,C064,No Driver,Auto,Wakad,Karve Nagar,6.4,0,UPI,
+348,27-05-2026,07:30:00,C085,Completed,Mini,Hadapsar,Baner,10.1,166.2,Wallet,4.4
+349,30-05-2026,08:45:00,C106,Completed,SUV,Kharadi,Aundh,21.3,533.9,Credit Card,4.8
+350,02-06-2026,09:20:00,C127,Completed,Mini,Viman Nagar,Pune Station,7.6,135.2,UPI,4.3
+351,05-06-2026,10:35:00,C148,Completed,Auto,Baner,Kothrud,4.4,73,Cash,4.2
+352,08-06-2026,11:50:00,C169,Completed,Sedan,Wakad,Shivajinagar,12.7,249.9,UPI,4.7
+353,11-06-2026,12:25:00,C010,Cancelled,SUV,Hadapsar,Kharadi,16.4,0,Wallet,
+354,14-06-2026,13:40:00,C031,Completed,Mini,Katraj,Aundh,6.8,127.6,Cash,4.1
+355,17-06-2026,14:15:00,C052,Completed,Sedan,Pune Station,Hinjewadi,15.5,314.5,UPI,4.8
+356,20-06-2026,15:30:00,C073,Completed,Auto,Kothrud,Wakad,5.1,80,Wallet,4
+357,23-06-2026,16:45:00,C094,Completed,SUV,Baner,Viman Nagar,18.2,475.6,Credit Card,4.9
+358,26-06-2026,17:20:00,C115,Completed,Mini,Aundh,Kharadi,11.6,184.2,UPI,4.5
+359,29-06-2026,18:35:00,C136,No Driver,Sedan,Hadapsar,Shivajinagar,9.3,0,Cash,
+360,02-01-2026,19:10:00,C157,Completed,Mini,Hinjewadi,Kothrud,5.9,112.8,Wallet,4.2
+361,05-01-2026,20:25:00,C178,Completed,SUV,Kharadi,Pune Station,20.6,516.8,UPI,4.8
+362,08-01-2026,07:40:00,C018,Completed,Auto,Shivajinagar,Baner,3.5,64,Cash,4.1
+363,11-01-2026,08:15:00,C039,Completed,Sedan,Viman Nagar,Wakad,13.2,266.4,Credit Card,4.7
+364,14-01-2026,09:30:00,C060,Cancelled,Mini,Kothrud,Katraj,7.3,0,UPI,
+365,17-01-2026,10:45:00,C081,Completed,Mini,Baner,Hinjewadi,9.8,163.2,Wallet,4.4
+366,20-01-2026,11:20:00,C102,Completed,SUV,Aundh,Hadapsar,22.1,550.3,Cash,4.9
+367,23-01-2026,12:35:00,C123,Completed,Sedan,Wakad,Kharadi,11.4,240.8,UPI,4.6
+368,26-01-2026,13:10:00,C144,Completed,Auto,Katraj,Karve Nagar,4.9,79,Wallet,4.2
+369,29-01-2026,14:25:00,C165,Completed,Mini,Pune Station,Viman Nagar,8.6,150.2,Cash,4.5
+370,01-02-2026,15:40:00,C006,Completed,Sedan,Hinjewadi,Kothrud,16.8,335.6,UPI,4.8
+371,04-02-2026,16:15:00,C027,Completed,Mini,Hadapsar,Aundh,12.2,196.4,Wallet,4.3
+372,07-02-2026,17:30:00,C048,Completed,SUV,Baner,Katraj,17.3,459.1,Credit Card,4.7
+373,10-02-2026,18:45:00,C069,No Driver,Auto,Kharadi,Shivajinagar,6.6,0,Cash,
+374,13-02-2026,19:20:00,C090,Completed,Sedan,Kothrud,Pune Station,9.7,212.9,UPI,4.5
+375,16-02-2026,20:35:00,C111,Completed,Mini,Wakad,Baner,4.8,99.6,Wallet,4.2
+376,19-02-2026,07:10:00,C132,Completed,SUV,Viman Nagar,Hinjewadi,24.5,619.5,Cash,4.9
+377,22-02-2026,08:25:00,C153,Completed,Auto,Aundh,Kothrud,5.4,84,UPI,4
+378,25-02-2026,09:40:00,C174,Completed,Sedan,Katraj,Hadapsar,14.1,280.7,Credit Card,4.6
+379,28-02-2026,10:15:00,C015,Cancelled,Mini,Shivajinagar,Wakad,6.5,0,Cash,
+380,03-03-2026,11:30:00,C036,Completed,Mini,Baner,Viman Nagar,10.7,176.4,UPI,4.4
+381,06-03-2026,12:45:00,C057,Completed,SUV,Kothrud,Kharadi,19.8,510.4,Wallet,4.8
+382,09-03-2026,13:20:00,C078,Completed,Auto,Hinjewadi,Wakad,3.7,66,Cash,4.2
+383,12-03-2026,14:35:00,C099,Completed,Sedan,Pune Station,Baner,12.5,247.5,UPI,4.7
+384,15-03-2026,15:10:00,C120,Completed,Mini,Aundh,Hadapsar,8.9,157.8,Credit Card,4.5
+385,18-03-2026,16:25:00,C141,Completed,SUV,Katraj,Viman Nagar,16.7,439.1,UPI,4.8
+386,21-03-2026,17:40:00,C162,No Driver,Auto,Kharadi,Kothrud,4.6,0,Wallet,
+387,24-03-2026,18:15:00,C003,Completed,Mini,Wakad,Shivajinagar,11.3,181.6,Cash,4.4
+388,27-03-2026,19:30:00,C024,Completed,Sedan,Baner,Hinjewadi,15.9,322.3,UPI,4.7
+389,30-03-2026,20:45:00,C045,Completed,Mini,Kothrud,Aundh,5.2,106.4,Wallet,4.1
+390,02-04-2026,07:20:00,C066,Cancelled,SUV,Hadapsar,Katraj,18.4,0,Cash,
+391,05-04-2026,08:35:00,C087,Completed,Auto,Viman Nagar,Pune Station,6.3,87,UPI,4.3
+392,08-04-2026,09:10:00,C108,Completed,Sedan,Shivajinagar,Kharadi,13.7,278.9,Credit Card,4.6
+393,11-04-2026,10:25:00,C129,Completed,Mini,Hinjewadi,Wakad,7.4,133.8,Wallet,4.2
+394,14-04-2026,11:40:00,C150,Completed,SUV,Baner,Kothrud,21.6,540.8,UPI,4.9
+395,17-04-2026,12:15:00,C171,Completed,Auto,Katraj,Karve Nagar,4.1,71,Cash,4
+396,20-04-2026,13:30:00,C012,Completed,Sedan,Aundh,Viman Nagar,10.9,237.3,UPI,4.6
+397,23-04-2026,14:45:00,C033,No Driver,Mini,Kharadi,Hadapsar,8.2,0,Wallet,
+398,26-04-2026,15:20:00,C054,Completed,Mini,Pune Station,Kothrud,6.7,124.4,Cash,4.4
+399,29-04-2026,16:35:00,C075,Completed,SUV,Wakad,Baner,14.5,400.5,Credit Card,4.8
+400,02-05-2026,17:50:00,C096,Completed,Sedan,Hadapsar,Hinjewadi,17.2,345.4,UPI,4.7
+401,05-05-2026,18:25:00,C117,Completed,Auto,Kothrud,Shivajinagar,5.7,86,Wallet,4.1
+402,08-05-2026,19:40:00,C138,Completed,Mini,Baner,Aundh,9.3,158.6,Cash,4.4
+403,11-05-2026,20:15:00,C159,Completed,SUV,Kharadi,Viman Nagar,12.8,339.4,UPI,4.8
+404,14-05-2026,07:30:00,C180,Cancelled,Sedan,Katraj,Pune Station,11.5,0,Credit Card,
+405,17-05-2026,08:45:00,C020,Completed,Mini,Hinjewadi,Kothrud,14.2,222.4,Wallet,4.6
+406,20-05-2026,09:20:00,C041,Completed,Auto,Wakad,Hadapsar,3.9,69,Cash,4.2
+407,23-05-2026,10:35:00,C062,Completed,Sedan,Viman Nagar,Baner,16.3,322.1,UPI,4.7
+408,26-05-2026,11:50:00,C083,Completed,Mini,Shivajinagar,Katraj,7.8,140.6,Credit Card,4.3
+409,29-05-2026,12:25:00,C104,Completed,SUV,Aundh,Kharadi,23.7,601.1,UPI,4.9
+410,01-06-2026,13:40:00,C125,Completed,Mini,Hadapsar,Wakad,10.4,170.8,Wallet,4.5
+411,04-06-2026,14:15:00,C146,Completed,Mini,Kothrud,Baner,8.5,147,UPI,4.4
+412,07-06-2026,15:30:00,C167,Completed,Sedan,Hinjewadi,Wakad,12.4,245.8,Cash,4.6
+413,10-06-2026,16:45:00,C008,Cancelled,Auto,Kharadi,Hadapsar,5.8,0,Wallet,
+414,13-06-2026,17:20:00,C029,Completed,SUV,Viman Nagar,Katraj,17.6,465,UPI,4.8
+415,16-06-2026,18:35:00,C050,Completed,Mini,Baner,Aundh,6.2,119.4,Cash,4.1
+416,19-06-2026,19:10:00,C071,No Driver,Auto,Hadapsar,Kothrud,7.5,0,UPI,
+417,22-06-2026,20:25:00,C092,Completed,Sedan,Pune Station,Kharadi,10.8,231.6,Credit Card,4.5
+418,25-06-2026,07:40:00,C113,Completed,Mini,Wakad,Hinjewadi,4.6,92.2,Wallet,4.2
+419,28-06-2026,08:15:00,C134,Completed,SUV,Katraj,Shivajinagar,15.9,402.7,Cash,4.7
+420,04-01-2026,09:30:00,C155,Completed,Mini,Aundh,Viman Nagar,9.4,159.8,UPI,4.3
+421,07-01-2026,10:45:00,C176,Completed,Auto,Kothrud,Pune Station,3.8,67,Cash,4.1
+422,10-01-2026,11:20:00,C017,Completed,Sedan,Baner,Hadapsar,13.6,276.2,UPI,4.7
+423,13-01-2026,12:35:00,C038,Cancelled,Mini,Kharadi,Wakad,8.1,0,Wallet,
+424,16-01-2026,13:10:00,C059,Completed,SUV,Hinjewadi,Baner,19.4,499.2,Credit Card,4.9
+425,19-01-2026,14:25:00,C080,Completed,Mini,Shivajinagar,Kothrud,5.7,113.4,UPI,4.2
+426,22-01-2026,15:40:00,C101,Completed,Sedan,Katraj,Viman Nagar,14.8,302.6,Cash,4.6
+427,25-01-2026,16:15:00,C122,No Driver,Auto,Wakad,Karve Nagar,6.4,0,UPI,
+428,28-01-2026,17:30:00,C143,Completed,Mini,Hadapsar,Baner,10.1,166.2,Wallet,4.4
+429,31-01-2026,18:45:00,C164,Completed,SUV,Kharadi,Aundh,21.3,533.9,Credit Card,4.8
+430,03-02-2026,19:20:00,C005,Completed,Mini,Viman Nagar,Pune Station,7.6,135.2,UPI,4.3
+431,06-02-2026,20:35:00,C026,Completed,Auto,Baner,Kothrud,4.4,73,Cash,4.2
+432,09-02-2026,07:10:00,C047,Completed,Sedan,Wakad,Shivajinagar,12.7,249.9,UPI,4.7
+433,12-02-2026,08:25:00,C068,Cancelled,SUV,Hadapsar,Kharadi,16.4,0,Wallet,
+434,15-02-2026,09:40:00,C089,Completed,Mini,Katraj,Aundh,6.8,127.6,Cash,4.1
+435,18-02-2026,10:15:00,C110,Completed,Sedan,Pune Station,Hinjewadi,15.5,314.5,UPI,4.8
+436,21-02-2026,11:30:00,C131,Completed,Auto,Kothrud,Wakad,5.1,80,Wallet,4
+437,24-02-2026,12:45:00,C152,Completed,SUV,Baner,Viman Nagar,18.2,475.6,Credit Card,4.9
+438,27-02-2026,13:20:00,C173,Completed,Mini,Aundh,Kharadi,11.6,184.2,UPI,4.5
+439,02-03-2026,14:35:00,C014,No Driver,Sedan,Hadapsar,Shivajinagar,9.3,0,Cash,
+440,05-03-2026,15:10:00,C035,Completed,Mini,Hinjewadi,Kothrud,5.9,112.8,Wallet,4.2
+441,08-03-2026,16:25:00,C056,Completed,SUV,Kharadi,Pune Station,20.6,516.8,UPI,4.8
+442,11-03-2026,17:40:00,C077,Completed,Auto,Shivajinagar,Baner,3.5,64,Cash,4.1
+443,14-03-2026,18:15:00,C098,Completed,Sedan,Viman Nagar,Wakad,13.2,266.4,Credit Card,4.7
+444,17-03-2026,19:30:00,C119,Cancelled,Mini,Kothrud,Katraj,7.3,0,UPI,
+445,20-03-2026,20:45:00,C140,Completed,Mini,Baner,Hinjewadi,9.8,163.2,Wallet,4.4
+446,23-03-2026,07:20:00,C161,Completed,SUV,Aundh,Hadapsar,22.1,550.3,Cash,4.9
+447,26-03-2026,08:35:00,C002,Completed,Sedan,Wakad,Kharadi,11.4,240.8,UPI,4.6
+448,29-03-2026,09:10:00,C023,Completed,Auto,Katraj,Karve Nagar,4.9,79,Wallet,4.2
+449,01-04-2026,10:25:00,C044,Completed,Mini,Pune Station,Viman Nagar,8.6,150.2,Cash,4.5
+450,04-04-2026,11:40:00,C065,Completed,Sedan,Hinjewadi,Kothrud,16.8,335.6,UPI,4.8
+451,07-04-2026,12:15:00,C086,Completed,Mini,Hadapsar,Aundh,12.2,196.4,Wallet,4.3
+452,10-04-2026,13:30:00,C107,Completed,SUV,Baner,Katraj,17.3,459.1,Credit Card,4.7
+453,13-04-2026,14:45:00,C128,No Driver,Auto,Kharadi,Shivajinagar,6.6,0,Cash,
+454,16-04-2026,15:20:00,C149,Completed,Sedan,Kothrud,Pune Station,9.7,212.9,UPI,4.5
+455,19-04-2026,16:35:00,C170,Completed,Mini,Wakad,Baner,4.8,99.6,Wallet,4.2
+456,22-04-2026,17:50:00,C011,Completed,SUV,Viman Nagar,Hinjewadi,24.5,619.5,Cash,4.9
+457,25-04-2026,18:25:00,C032,Completed,Auto,Aundh,Kothrud,5.4,84,UPI,4
+458,28-04-2026,19:40:00,C053,Completed,Sedan,Katraj,Hadapsar,14.1,280.7,Credit Card,4.6
+459,01-05-2026,20:15:00,C074,Cancelled,Mini,Shivajinagar,Wakad,6.5,0,Cash,
+460,04-05-2026,07:30:00,C095,Completed,Mini,Baner,Viman Nagar,10.7,176.4,UPI,4.4
+461,07-05-2026,08:45:00,C116,Completed,SUV,Kothrud,Kharadi,19.8,510.4,Wallet,4.8
+462,10-05-2026,09:20:00,C137,Completed,Auto,Hinjewadi,Wakad,3.7,66,Cash,4.2
+463,13-05-2026,10:35:00,C158,Completed,Sedan,Pune Station,Baner,12.5,247.5,UPI,4.7
+464,16-05-2026,11:50:00,C179,Completed,Mini,Aundh,Hadapsar,8.9,157.8,Credit Card,4.5
+465,19-05-2026,12:25:00,C018,Completed,SUV,Katraj,Viman Nagar,16.7,439.1,UPI,4.8
+466,22-05-2026,13:40:00,C039,No Driver,Auto,Kharadi,Kothrud,4.6,0,Wallet,
+467,25-05-2026,14:15:00,C060,Completed,Mini,Wakad,Shivajinagar,11.3,181.6,Cash,4.4
+468,28-05-2026,15:30:00,C081,Completed,Sedan,Baner,Hinjewadi,15.9,322.3,UPI,4.7
+469,31-05-2026,16:45:00,C102,Completed,Mini,Kothrud,Aundh,5.2,106.4,Wallet,4.1
+470,03-06-2026,17:20:00,C123,Cancelled,SUV,Hadapsar,Katraj,18.4,0,Cash,
+471,06-06-2026,18:35:00,C144,Completed,Auto,Viman Nagar,Pune Station,6.3,87,UPI,4.3
+472,09-06-2026,19:10:00,C165,Completed,Sedan,Shivajinagar,Kharadi,13.7,278.9,Credit Card,4.6
+473,12-06-2026,20:25:00,C006,Completed,Mini,Hinjewadi,Wakad,7.4,133.8,Wallet,4.2
+474,15-06-2026,07:40:00,C027,Completed,SUV,Baner,Kothrud,21.6,540.8,UPI,4.9
+475,18-06-2026,08:15:00,C048,Completed,Auto,Katraj,Karve Nagar,4.1,71,Cash,4
+476,21-06-2026,09:30:00,C069,Completed,Sedan,Aundh,Viman Nagar,10.9,237.3,UPI,4.6
+477,24-06-2026,10:45:00,C090,No Driver,Mini,Kharadi,Hadapsar,8.2,0,Wallet,
+478,27-06-2026,11:20:00,C111,Completed,Mini,Pune Station,Kothrud,6.7,124.4,Cash,4.4
+479,30-06-2026,12:35:00,C132,Completed,SUV,Wakad,Baner,14.5,400.5,Credit Card,4.8
+480,05-01-2026,13:10:00,C153,Completed,Sedan,Hadapsar,Hinjewadi,17.2,345.4,UPI,4.7
+481,08-01-2026,14:25:00,C174,Completed,Auto,Kothrud,Shivajinagar,5.7,86,Wallet,4.1
+482,11-01-2026,15:40:00,C015,Completed,Mini,Baner,Aundh,9.3,158.6,Cash,4.4
+483,14-01-2026,16:15:00,C036,Completed,SUV,Kharadi,Viman Nagar,12.8,339.4,UPI,4.8
+484,17-01-2026,17:30:00,C057,Cancelled,Sedan,Katraj,Pune Station,11.5,0,Credit Card,
+485,20-01-2026,18:45:00,C078,Completed,Mini,Hinjewadi,Kothrud,14.2,222.4,Wallet,4.6
+486,23-01-2026,19:20:00,C099,Completed,Auto,Wakad,Hadapsar,3.9,69,Cash,4.2
+487,26-01-2026,20:35:00,C120,Completed,Sedan,Viman Nagar,Baner,16.3,322.1,UPI,4.7
+488,29-01-2026,07:10:00,C141,Completed,Mini,Shivajinagar,Katraj,7.8,140.6,Credit Card,4.3
+489,01-02-2026,08:25:00,C162,Completed,SUV,Aundh,Kharadi,23.7,601.1,UPI,4.9
+490,04-02-2026,09:40:00,C003,Completed,Mini,Hadapsar,Wakad,10.4,170.8,Wallet,4.5
+491,07-02-2026,10:15:00,C024,Completed,Mini,Kothrud,Baner,8.5,147,UPI,4.4
+492,10-02-2026,11:30:00,C045,Completed,Sedan,Hinjewadi,Wakad,12.4,245.8,Cash,4.6
+493,13-02-2026,12:45:00,C066,Cancelled,Auto,Kharadi,Hadapsar,5.8,0,Wallet,
+494,16-02-2026,13:20:00,C087,Completed,SUV,Viman Nagar,Katraj,17.6,465,UPI,4.8
+495,19-02-2026,14:35:00,C108,Completed,Mini,Baner,Aundh,6.2,119.4,Cash,4.1
+496,22-02-2026,15:10:00,C129,No Driver,Auto,Hadapsar,Kothrud,7.5,0,UPI,
+497,25-02-2026,16:25:00,C150,Completed,Sedan,Pune Station,Kharadi,10.8,231.6,Credit Card,4.5
+1,02-01-2026,08:15:00,C001,Completed,Mini,Kothrud,Hinjewadi,12.5,185,UPI,4.5
+2,03-01-2026,09:30:00,C002,Completed,Sedan,Baner,Wakad,8.2,174.4,Cash,4.2
+3,04-01-2026,10:45:00,C003,Cancelled,Auto,Hadapsar,Kharadi,6.5,0,Cash,
